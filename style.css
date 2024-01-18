@@ -312,6 +312,19 @@ a i.fa-solid.fa-bolt:hover {
     color: #ff0000;
     font-size: 25px;
 }
+.greeting{
+    background-color: #b3cef2;
+    display: inline-flex;
+    justify-content: center;
+
+    height: 30px;
+    width: 100%;
+    padding-bottom: 1em;
+}
+
+.greeting p{
+    text-align: center;
+}
 
 /* Estilos para pantallas más pequeñas (hasta 768px) */
 @media (max-width: 768px) {
